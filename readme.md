@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kensykasiagit
+- 👀 I’m interested in creating concrete pots
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on some cool app project
+- 📫 How to reach me kensykasiagit@gmail.com
